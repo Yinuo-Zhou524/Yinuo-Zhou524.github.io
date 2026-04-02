@@ -27,7 +27,7 @@ title: Home
   </div>
 
   <div class="hero-photo">
-    <img src="/assets/img/profile.jpg" alt="Portrait of Yinuo Zhou">
+    <img src="/assets/img/profile.JPG" alt="Portrait of Yinuo Zhou">
   </div>
 </div>
 
