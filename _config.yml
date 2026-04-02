@@ -1,0 +1,14 @@
+title: Yinuo Zhou
+description: Ph.D. Candidate | Tree Physiology | Forest Health
+theme: null
+markdown: kramdown
+
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
