@@ -27,14 +27,15 @@ title: Home
   </div>
 
   <div class="hero-photo">
-    <img src="/assets/img/profile.JPG" alt="Portrait of Yinuo Zhou">
+    <img src="/assets/img/profile.jpg" alt="Portrait of Yinuo Zhou">
   </div>
 </div>
 
 <section>
   <h2>About</h2>
   <p>
-    Welcome to my academic website. I am interested in how trees regulate non-foliar water loss and how
+    你好！
+    Welcome to my website. I am interested in how trees regulate non-foliar water loss and how
     bark traits influence responses to heat, flooding, and drought. My broader goal is to better understand
     tree resilience under changing environmental conditions.
   </p>
