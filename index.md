@@ -27,15 +27,16 @@ title: Home
   </div>
 
   <div class="hero-photo">
-    <img src="/assets/img/profile.jpg" alt="Portrait of Yinuo Zhou">
+    <img src="/assets/img/profile.JPG" alt="Portrait of Yinuo Zhou">
   </div>
 </div>
 
 <section>
   <h2>About</h2>
   <p>
-    你好！
-    Welcome to my website. I am interested in how trees regulate non-foliar water loss and how
+    <h3 class="Chinese">你好！</h3>
+    
+    Welcome to my website :smile_cat: I am interested in how trees regulate non-foliar water loss and how
     bark traits influence responses to heat, flooding, and drought. My broader goal is to better understand
     tree resilience under changing environmental conditions.
   </p>
@@ -55,6 +56,9 @@ title: Home
   <h2>News</h2>
   <ul>
     <li><strong>2026:</strong> Add your newest conference, paper, or project update here.</li>
-    <li><strong>2025:</strong> Add another recent milestone here.</li>
+    <li><strong>2025:</strong> </li>
+    <li>12/15 Received [the Clark M. Hoffpauer Memorial Fund Scholarship](https://www.lsu.edu/agriculture/rnr/programs/scholarships.php)</li> 
+    <li>11/04 Passed the General Exam. PHD CANDIDATE NOW!</li>
+    <li>Add another recent milestone here.</li>
   </ul>
 </section>
