@@ -43,15 +43,15 @@ I am a Ph.D. candidate in the School of Renewable Natural Resources at Louisiana
   </figure>
 
   <figure class="photo-figure">
-    <a href="{{ '/assets/img/field2.jpg' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/img/field2.jpg' | relative_url }}" alt="Collecting samples in the field" class="grid-photo">
+    <a href="{{ '/assets/img/field2.JPG' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/field2.JPG' | relative_url }}" alt="Collecting samples in the field" class="grid-photo">
     </a>
     <figcaption>Sampling in the field</figcaption>
   </figure>
 
   <figure class="photo-figure">
     <a href="{{ '/assets/img/conference1.jpg' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/img/field3.jpg' | relative_url }}" alt="Forest fieldwork" class="grid-photo">
+      <img src="{{ '/assets/img/conference1.jpg' | relative_url }}" alt="Forest fieldwork" class="grid-photo">
     </a>
     <figcaption>LA Water</figcaption>
   </figure>
