@@ -16,7 +16,7 @@
 
 body {
   margin: 0;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Source Sans 3", Arial, sans-serif;
   background: var(--bg);
   color: var(--text);
   line-height: 1.7;
@@ -45,8 +45,10 @@ body {
 .site-title {
   text-decoration: none;
   color: var(--text);
-  font-weight: bold;
-  font-size: 1.2rem;
+  font-family: "Lora", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.25rem;
+  letter-spacing: 0.2px;
 }
 
 .site-nav {
@@ -58,6 +60,8 @@ body {
 .site-nav a {
   text-decoration: none;
   color: var(--muted);
+  font-family: "Source Sans 3", Arial, sans-serif;
+  font-weight: 500;
 }
 
 .site-nav a:hover {
@@ -71,6 +75,8 @@ body {
 h1, h2, h3 {
   color: var(--text);
   line-height: 1.25;
+  font-family: "Lora", Georgia, serif;
+  font-weight: 600;
 }
 
 h1 {
@@ -90,8 +96,9 @@ p, li {
 
 .subtitle {
   color: var(--muted);
-  font-size: 1.1rem;
+  font-size: 1.08rem;
   margin-top: 0;
+  font-family: "Source Sans 3", Arial, sans-serif;
 }
 
 .hero {
@@ -169,4 +176,15 @@ a:hover {
     flex-direction: column;
     align-items: flex-start;
   }
+}
+
+.name-title {
+  font-family: "Lora", Georgia, serif;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+
+.pub-title {
+  font-family: "Lora", Georgia, serif;
+  font-weight: 500;
 }

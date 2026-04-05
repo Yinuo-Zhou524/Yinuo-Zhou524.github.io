@@ -12,9 +12,11 @@ Louisiana State University
 
 **Email:** yzhou53@lsu.edu
 
+**Phone:** 225-433-4407
+
 ## Profiles
 
 - [Google Scholar](#)
 - [ORCID](https://orcid.org/0009-0001-6735-1871)
-- [GitHub](#)
+- [GitHub](https://github.com/Yinuo-Zhou524)
 - [LinkedIn](#)

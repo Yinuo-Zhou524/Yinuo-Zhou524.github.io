@@ -5,7 +5,7 @@ title: Home
 
 <div class="hero">
   <div class="hero-text">
-    <h1>Yinuo Zhou</h1>
+  <h1 class="name-title">Yinuo Zhou</h1>
     <p class="subtitle">Ph.D. Candidate in Renewable Natural Resources, Louisiana State University</p>
 
     <p>
@@ -36,7 +36,7 @@ title: Home
   <p>
     <h3 class="Chinese">你好！</h3>
     
-    Welcome to my website :smile_cat: I am interested in how trees regulate non-foliar water loss and how
+    Welcome to my website 😸 I am interested in how trees regulate non-foliar water loss and how
     bark traits influence responses to heat, flooding, and drought. My broader goal is to better understand
     tree resilience under changing environmental conditions.
   </p>
@@ -55,10 +55,15 @@ title: Home
 <section>
   <h2>News</h2>
   <ul>
-    <li><strong>2026:</strong> Add your newest conference, paper, or project update here.</li>
+    <li><strong>2026:</strong> </li>
+    <ul>
+    <li>02/18 Oral presentation abstract was accepted for the Morth American Forest Ecology Workshop (Missoula, Montana)</li>
+    </ul>
+    </li>
     <li><strong>2025:</strong> </li>
-    <li>12/15 Received [the Clark M. Hoffpauer Memorial Fund Scholarship](https://www.lsu.edu/agriculture/rnr/programs/scholarships.php)</li> 
+    <ul>
+    <li>12/15 Received [the Clark M. Hoffpauer Memorial Fund Scholarship](https://www.lsu.edu/agriculture/rnr/programs/scholarships.php) </li> 
     <li>11/04 Passed the General Exam. PHD CANDIDATE NOW!</li>
-    <li>Add another recent milestone here.</li>
+    <!--Add another recent milestone here.-->
   </ul>
 </section>
