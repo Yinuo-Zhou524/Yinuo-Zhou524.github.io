@@ -23,7 +23,7 @@ Louisiana State University
 
 
 <div class="contact-fun">
-  <img src="{{ '/assets/img/alligator.jpg' | relative_url }}" alt="Alligator" class="contact-gator">
-  <p class="gator-signoff">Thanks for stopping by!
-  See you later, alligator 🐊</p>
+  <img src="{{ '/assets/img/alligator.JPG' | relative_url }}" alt="Alligator" class="contact-gator">
+  <p class="gator-signoff">Thanks for stopping by!</p>
+  <p class="gator-signoff">See you later, alligator 🐊</p>
 </div>

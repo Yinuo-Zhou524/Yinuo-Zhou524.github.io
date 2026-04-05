@@ -77,7 +77,7 @@ Outside of research, I love racket sports (tennis, table tennis, and pickleball)
     <a href="{{ '/assets/img/foster.jpg' | relative_url }}" target="_blank">
       <img src="{{ '/assets/img/foster.jpg' | relative_url }}" alt="Fostering neonatal kittens" class="grid-photo">
     </a>
-    <figcaption>Fostering neonatal kittens</figcaption>
+    <figcaption>Fostering neonate kittens</figcaption>
   </figure>
 
   <figure class="photo-figure">
