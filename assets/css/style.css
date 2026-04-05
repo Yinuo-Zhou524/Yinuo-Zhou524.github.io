@@ -195,3 +195,20 @@ a:hover {
   font-weight: 700;
   margin-bottom: 0.4rem;
 }
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.grid-photo {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  display: block;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  box-shadow: 0 6px 18px rgba(80, 70, 50, 0.08);
+}
