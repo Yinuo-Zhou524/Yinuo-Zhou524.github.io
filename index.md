@@ -5,7 +5,7 @@ title: Home
 
 <div class="hero">
   <div class="hero-text">
-  <h1 class="name-title">Yinuo Zhou</h1>
+    <h1 class="name-title">Yinuo Zhou</h1>
     <p class="subtitle">Ph.D. Candidate in Renewable Natural Resources, Louisiana State University</p>
 
     <p>
@@ -19,26 +19,25 @@ title: Home
     </p>
 
     <div class="button-row">
-      <a class="button" href="/research.html">Research</a>
-      <a class="button" href="/publications.html">Publications</a>
-      <a class="button" href="/cv.html">CV</a>
-      <a class="button" href="/contact.html">Contact</a>
+      <a class="button" href="{{ '/research.html' | relative_url }}">Research</a>
+      <a class="button" href="{{ '/publications.html' | relative_url }}">Publications</a>
+      <a class="button" href="{{ '/cv.html' | relative_url }}">CV</a>
+      <a class="button" href="{{ '/contact.html' | relative_url }}">Contact</a>
     </div>
   </div>
 
   <div class="hero-photo">
-    <img src="/assets/img/profile.JPG" alt="Portrait of Yinuo Zhou">
+    <img src="{{ '/assets/img/profile.JPG' | relative_url }}" alt="Portrait of Yinuo Zhou">
   </div>
 </div>
 
 <section>
   <h2>About</h2>
+  <p class="Chinese">你好！</p>
   <p>
-    <h3 class="Chinese">你好！</h3>
-    
-    Welcome to my website 😸 I am interested in how trees regulate non-foliar water loss and how
-    bark traits influence responses to heat, flooding, and drought. My broader goal is to better understand
-    tree resilience under changing environmental conditions.
+    My research focuses on how bark and other non-foliar tissues contribute
+  to plant water balance under environmental stress. I am especially interested in the roles of bark
+  water vapor conductance, lenticels, flooding, heat, and drought in shaping tree function and resilience.
   </p>
 </section>
 
@@ -55,15 +54,18 @@ title: Home
 <section>
   <h2>News</h2>
   <ul>
-    <li><strong>2026:</strong> </li>
-    <ul>
-    <li>02/18 Oral presentation abstract was accepted for the Morth American Forest Ecology Workshop (Missoula, Montana)</li>
-    </ul>
+    <li>
+      <strong>2026</strong>
+      <ul>
+        <li>02/18 Oral presentation abstract accepted for the North American Forest Ecology Workshop (Missoula, Montana)</li>
+      </ul>
     </li>
-    <li><strong>2025:</strong> </li>
-    <ul>
-    <li>12/15 Received [the Clark M. Hoffpauer Memorial Fund Scholarship](https://www.lsu.edu/agriculture/rnr/programs/scholarships.php) </li> 
-    <li>11/04 Passed the General Exam. PHD CANDIDATE NOW!</li>
-    <!--Add another recent milestone here.-->
+    <li>
+      <strong>2025</strong>
+      <ul>
+        <li>12/15 Received <a href="https://www.lsu.edu/agriculture/rnr/programs/scholarships.php">the Clark M. Hoffpauer Memorial Fund Scholarship</a></li>
+        <li>11/04 Passed the General Exam — Ph.D. candidate</li>
+      </ul>
+    </li>
   </ul>
 </section>
