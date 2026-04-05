@@ -17,21 +17,30 @@ Outside of research, I love racket sports (tennis, table tennis, and pickleball)
 
 <div class="photo-grid">
   <figure class="photo-figure">
-    <img src="{{ '/assets/img/hobby_yoga.jpg' | relative_url }}" alt="Doing yoga" class="grid-photo">
+    <a href="{{ '/assets/img/hobby_yoga.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/hobby_yoga.jpg' | relative_url }}" alt="Doing yoga" class="grid-photo">
+    </a>
     <figcaption>Bird in the house</figcaption>
   </figure>
 
   <figure class="photo-figure">
-    <img src="{{ '/assets/img/foster.jpg' | relative_url }}" alt="Fostering neonatal kittens" class="grid-photo">
+    <a href="{{ '/assets/img/foster.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/foster.jpg' | relative_url }}" alt="Fostering neonatal kittens" class="grid-photo">
+    </a>
     <figcaption>Fostering neonatal kittens</figcaption>
   </figure>
 
   <figure class="photo-figure">
-    <img src="{{ '/assets/img/tt.jpg' | relative_url }}" alt="Playing racket sports" class="grid-photo">
+    <a href="{{ '/assets/img/tt.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/tt.jpg' | relative_url }}" alt="Playing table tennis" class="grid-photo">
+    </a>
     <figcaption>NCTTA</figcaption>
   </figure>
+
   <figure class="photo-figure">
-    <img src="{{ '/assets/img/pb.jpg' | relative_url }}" alt="Playing pb" class="grid-photo">
+    <a href="{{ '/assets/img/pb.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/pb.jpg' | relative_url }}" alt="Playing pickleball" class="grid-photo">
+    </a>
     <figcaption>Stallion Slam</figcaption>
   </figure>
 </div>
