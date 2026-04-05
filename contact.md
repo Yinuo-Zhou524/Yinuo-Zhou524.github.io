@@ -20,3 +20,10 @@ Louisiana State University
 - [ORCID](https://orcid.org/0009-0001-6735-1871)
 - [GitHub](https://github.com/Yinuo-Zhou524)
 - [LinkedIn](#)
+
+
+<div class="contact-fun">
+  <img src="{{ '/assets/img/alligator.jpg' | relative_url }}" alt="Alligator" class="contact-gator">
+  <p class="gator-signoff">Thanks for stopping by!
+  See you later, alligator 🐊</p>
+</div>
