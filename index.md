@@ -35,7 +35,7 @@ title: Home
   <h2>About</h2>
   <p class="Chinese">你好！</p>
   <p>
-    My research focuses on how bark and other non-foliar tissues contribute
+    Welcome to my website 😸 My research focuses on how bark and other non-foliar tissues contribute
   to plant water balance under environmental stress. I am especially interested in the roles of bark
   water vapor conductance, lenticels, flooding, heat, and drought in shaping tree function and resilience.
   </p>
