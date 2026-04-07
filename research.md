@@ -73,7 +73,7 @@ My research integrates several complementary approaches:
 
   <figure class="photo-figure">
     <a href="{{ '/assets/img/2024 spectra field.jpg' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/img/field3.jpg' | relative_url }}" alt="Forest field research" class="grid-photo">
+      <img src="{{ '/assets/img/2024 spectra field.jpg' | relative_url }}" alt="Forest field research" class="grid-photo">
     </a>
   </figure>
 </div>
