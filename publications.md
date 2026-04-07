@@ -22,9 +22,11 @@ title: Publications
 ## Manuscripts in progress
 
 - Temperature and seasonal responses of bark water vapor conductance across temperate tree species.
-- Flooding-induced lenticel hypertrophy and changes in bark water vapor conductance.
+- Using hyperspectral reflectance techniques to assess residual water-loss 
+traits among temperate forest trees 
 
 ## Presentations
 
 - Add conference presentations here
+
 - Add invited talks or posters here

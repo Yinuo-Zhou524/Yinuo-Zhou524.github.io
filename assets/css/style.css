@@ -198,20 +198,13 @@ a:hover {
 
 .photo-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 1rem;
-  margin-top: 1rem;
+  gap: 0.9rem;
+  margin: 0.8rem 0 1.2rem;
 }
 
-.photo-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 1rem;
-  margin: 1rem 0 1.5rem;
-}
-
-.photo-grid-small {
-  grid-template-columns: repeat(auto-fit, minmax(160px, 220px));
+.photo-grid-compact {
+  grid-template-columns: repeat(auto-fit, minmax(140px, 180px));
+  justify-content: start;
 }
 
 .photo-figure {
@@ -228,9 +221,9 @@ a:hover {
   aspect-ratio: 3 / 4;
   object-fit: cover;
   display: block;
-  border-radius: 14px;
+  border-radius: 12px;
   border: 1px solid var(--line);
-  box-shadow: 0 6px 18px rgba(80, 70, 50, 0.08);
+  box-shadow: 0 4px 12px rgba(80, 70, 50, 0.08);
   transition: transform 0.2s ease;
 }
 
@@ -239,31 +232,8 @@ a:hover {
 }
 
 .photo-figure figcaption {
-  margin-top: 0.45rem;
-  font-size: 0.95rem;
+  margin-top: 0.35rem;
+  font-size: 0.88rem;
   color: var(--muted);
   text-align: center;
-}
-
-.contact-fun {
-  margin-top: 2rem;
-  text-align: center;
-}
-
-.contact-gator {
-  width: 100%;
-  max-width: 260px;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-  display: block;
-  margin: 0 auto 0.8rem;
-  border-radius: 16px;
-  border: 1px solid var(--line);
-  box-shadow: 0 6px 18px rgba(80, 70, 50, 0.08);
-}
-
-.gator-signoff {
-  font-style: italic;
-  color: var(--muted);
-  font-size: 1.05rem;
 }
