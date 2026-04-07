@@ -14,7 +14,7 @@ Louisiana State University
 
 **Phone:** 225-433-4407
 
-**Always looking forward to collaboration! Also in search of post-doc positions or any opportunities. 
+**Always looking forward to collaboration! Also in search of post-doc positions or any opportunities.** 
 ## Profiles
 
 - [Google Scholar](#)
