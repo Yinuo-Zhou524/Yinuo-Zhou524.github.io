@@ -7,6 +7,13 @@ title: Research
 
 My research focuses on tree physiology and forest health, especially how bark and other non-foliar tissues contribute to plant water relations under environmental stress. I am interested in how residual water loss, bark structure, and environmental sensitivity influence tree function across flooding, heat, and drought conditions. My work combines field studies, greenhouse experiments, controlled laboratory measurements, bark anatomy, and quantitative modeling to better understand how woody tissues respond to changing environments.
 
+<div class="photo-grid photo-grid-compact">
+  <figure class="photo-figure">
+    <a href="{{ '/assets/img/2026 yancey field.JPEG' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/field1.jpg' | relative_url }}" alt="Field measurements in a forest site" class="grid-photo">
+    </a>
+  </figure>
+</div>
 ## Research Questions
 
 My work is guided by several broad questions:
@@ -35,6 +42,13 @@ I am also developing research on how flooding alters bark structure and function
 
 My greenhouse flooding research examines whether chronic flooding changes lenticel morphology, bark water vapor conductance, and related traits across species that differ in flood tolerance. This work links visible bark responses with functional changes in water vapor exchange and broader stress physiology.
 
+<div class="photo-grid photo-grid-compact">
+  <figure class="photo-figure">
+    <a href="{{ '/assets/img/2026 yancey field.JPEG' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/lenticel_stereoscope.png' | relative_url }}" alt="Field measurements in a forest site" class="grid-photo">
+    </a>
+  </figure>
+</div>
 ## Hyperspectral Reflectance and Non-destructive Trait Estimation
 
 Another part of my research examines whether hyperspectral reflectance can be used to estimate bark and leaf traits related to residual water loss. This project is motivated by the difficulty of measuring many functional traits using destructive and labor-intensive methods, especially across large numbers of trees and species. Hyperspectral approaches offer the possibility of rapid, non-destructive trait estimation and may help connect bark physiology with scalable monitoring tools.

@@ -27,6 +27,5 @@ traits among temperate forest trees
 
 ## Presentations
 
-- Add conference presentations here
-
-- Add invited talks or posters here
+- Zhou, Y. Guest Lecture: An introduction to dendrochronology: The dating and study of annual growth rings in trees. RNR 3105, Louisiana State University, 30 Apr 2026. [invited]
+- Zhou, Y., Rosseau, G., Wolfe, B. Bark water vapor conductance varies among temperate forest tree species and is affected by flooding and stem bending. 2023 LSU/Southern Ag Centers Joint Annual Conference, 14 Dec 2023. [poster presented]
