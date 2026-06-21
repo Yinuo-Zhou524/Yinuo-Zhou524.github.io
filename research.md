@@ -10,7 +10,7 @@ My research focuses on tree physiology and forest health, especially how bark an
 <div class="photo-grid photo-grid-compact">
   <figure class="photo-figure">
     <a href="{{ '/assets/img/2026 yancey field.JPEG' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/img/field1.jpg' | relative_url }}" alt="Field measurements in a forest site" class="grid-photo">
+      <img src="{{ '/assets/img/2026 yancey field.JPEG' | relative_url }}" alt="Field measurements in a forest site" class="grid-photo">
     </a>
   </figure>
 </div>
@@ -44,7 +44,7 @@ My greenhouse flooding research examines whether chronic flooding changes lentic
 
 <div class="photo-grid photo-grid-compact">
   <figure class="photo-figure">
-    <a href="{{ '/assets/img/2026 yancey field.JPEG' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/img/lenticel_stereoscope.png' | relative_url }}" target="_blank">
       <img src="{{ '/assets/img/lenticel_stereoscope.png' | relative_url }}" alt="Field measurements in a forest site" class="grid-photo">
     </a>
   </figure>
