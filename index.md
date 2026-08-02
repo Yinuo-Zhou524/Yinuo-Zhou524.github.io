@@ -57,6 +57,7 @@ title: Home
     <li>
       <strong>2026</strong>
       <ul>
+        <li>07/15 Oral and poster presentation abstract accepted for Botany 2026 (Tucson, Arizona)</li>
         <li>02/18 Oral presentation abstract accepted for the North American Forest Ecology Workshop (Missoula, Montana)</li>
       </ul>
     </li>

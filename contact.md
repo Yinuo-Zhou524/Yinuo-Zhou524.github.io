@@ -14,7 +14,7 @@ Louisiana State University
 
 **Phone:** 225-433-4407
 
-**Always looking forward to collaboration! Also in search of post-doc positions or any opportunities.** 
+**Always looking forward to collaboration! Also in search of post-doc positions or teaching opportunities.** 
 **Connect with me about research, teaching, or anything about TREEs!**
 
 ## Profiles
@@ -22,7 +22,6 @@ Louisiana State University
 - [Google Scholar](#)
 - [ORCID](https://orcid.org/0009-0001-6735-1871)
 - [GitHub](https://github.com/Yinuo-Zhou524)
-- [LinkedIn](#)
 
 
 <div class="contact-fun">
