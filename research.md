@@ -30,11 +30,27 @@ A central theme of my research is bark water vapor conductance (*g*<sub>bark</su
 
 My work has shown that *g*<sub>bark</sub> varies substantially among temperate forest tree species and responds dynamically to environmental conditions rather than behaving as a fixed trait. In previous experiments, I found that flooding reduced bark water vapor conductance, while stem bending increased it, showing that bark permeability is sensitive to both environmental and physical disturbance.
 
+<div class="photo-grid photo-grid-compact">
+  <figure class="photo-figure">
+    <a href="{{ '/assets/img/Botany 2026 talk.JPEG' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/Botany 2026 talk.JPEG' | relative_url }}" alt="Botany 2026 talk" class="grid-photo">
+    </a>
+  </figure>
+</div>
+
 ## Temperature Sensitivity of Residual Water Loss Through Bark
 
 Another major part of my research examines how bark water vapor conductance responds to temperature across species and seasons. This work addresses an important gap in plant water relations, because many current frameworks for tree drought and heat stress emphasize leaf and xylem processes while giving much less attention to dynamic variation in bark-mediated residual water loss.
 
 Using controlled temperature treatments, I measure *g*<sub>bark</sub> from low to very high temperatures and compare responses among temperate tree species. I am particularly interested in whether warming changes bark resistance to vapor diffusion, whether these responses differ among species, and how bark traits such as bark thickness ratio, lenticel size, and lenticel density relate to those patterns.
+
+<div class="photo-grid photo-grid-compact">
+  <figure class="photo-figure">
+    <a href="{{ '/assets/img/NEFEW talk.JPEG' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/NEFEW talk.JPEG' | relative_url }}" alt="NEFEW talk" class="grid-photo">
+    </a>
+  </figure>
+</div>
 
 ## Flooding, Lenticels, and Bark Function
 
@@ -45,7 +61,7 @@ My greenhouse flooding research examines whether chronic flooding changes lentic
 <div class="photo-grid photo-grid-compact">
   <figure class="photo-figure">
     <a href="{{ '/assets/img/lenticel_stereoscope.png' | relative_url }}" target="_blank">
-      <img src="{{ '/assets/img/lenticel_stereoscope.png' | relative_url }}" alt="Field measurements in a forest site" class="grid-photo">
+      <img src="{{ '/assets/img/lenticel_stereoscope.png' | relative_url }}" alt="lenticel" class="grid-photo">
     </a>
   </figure>
 </div>
@@ -54,6 +70,15 @@ My greenhouse flooding research examines whether chronic flooding changes lentic
 Another part of my research examines whether hyperspectral reflectance can be used to estimate bark and leaf traits related to residual water loss. This project is motivated by the difficulty of measuring many functional traits using destructive and labor-intensive methods, especially across large numbers of trees and species. Hyperspectral approaches offer the possibility of rapid, non-destructive trait estimation and may help connect bark physiology with scalable monitoring tools.
 
 In this work, I evaluate whether spectral reflectance can predict traits including bark water vapor conductance, bark water content, bark density, bark thickness-related traits, bark texture, and leaf minimum conductance. I compare statistical and machine-learning approaches such as partial least squares regression, Random Forest, and XGBoost. Preliminary results suggest that hyperspectral models perform well for several structural traits, including outer bark thickness and outer bark thickness ratio, and very well for leaf water content, but perform poorly for *g*<sub>bark</sub>. Rather than a failure, this result suggests that some bark functional traits may not have a strong direct spectral signature, which is itself informative for how bark physiology can and cannot be scaled using remote sensing tools.
+
+<div class="photo-grid photo-grid-compact">
+  <figure class="photo-figure">
+    <a href="{{ '/assets/img/Botany 2026 poster.JPEG' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/img/Botany 2026 poster.JPEG' | relative_url }}" alt="poster" class="grid-photo">
+    </a>
+  </figure>
+</div>
+
 
 ## Within-tree and Localized Variation in Bark Conductance
 

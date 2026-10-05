@@ -7,8 +7,12 @@ title: CV
 
 This page provides a brief academic overview. For the full version, please download my CV here:
 
-[Download full CV (PDF)]({{ '/assets/pdf/Yinuo_Zhou_CV.pdf' | relative_url }})
+[Download full CV (PDF)]({{ '/assets/pdf/CV_Zhou_Yinuo.pdf' | relative_url }})
 
+<div class="hero-photo">
+    <img src="{{ '/assets/img/headshot.JPEG' | relative_url }}" alt="Portrait of Yinuo Zhou">
+</div>
+  
 ## Current Position
 
 **Ph.D. Candidate**  

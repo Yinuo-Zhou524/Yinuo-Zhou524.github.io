@@ -27,7 +27,7 @@ title: Home
   </div>
 
   <div class="hero-photo">
-    <img src="{{ '/assets/img/profile.JPG' | relative_url }}" alt="Portrait of Yinuo Zhou">
+    <img src="{{ '/assets/img/portrait with cloudy.JPEG' | relative_url }}" alt="Portrait of Yinuo Zhou">
   </div>
 </div>
 
@@ -57,6 +57,7 @@ title: Home
     <li>
       <strong>2026</strong>
       <ul>
+        <li>09/25 Received the Student Travel Grant to attend the AGU26 Meeting, 7-11 December 2026 in San Francisco, CA</li>
         <li>07/15 Oral and poster presentation abstract accepted for Botany 2026 (Tucson, Arizona)</li>
         <li>02/18 Oral presentation abstract accepted for the North American Forest Ecology Workshop (Missoula, Montana)</li>
       </ul>

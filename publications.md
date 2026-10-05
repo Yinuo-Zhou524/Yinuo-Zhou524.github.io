@@ -21,7 +21,8 @@ title: Publications
 
 ## Manuscripts in progress
 
-- Temperature and seasonal responses of bark water vapor conductance across temperate tree species.
+- Bark water vapor conductance of temperate forest trees declines under warmer, drier air. Plant, Cell & Environment. (submitted) 
+
 - Using hyperspectral reflectance techniques to assess residual water-loss 
 traits among temperate forest trees 
 
