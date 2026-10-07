@@ -58,21 +58,21 @@ Outside of research, I love racket sports (tennis, table tennis, and pickleball)
     <figcaption>NCTTA</figcaption>
   </figure>
 </div>
+
+## Meet Cloudy ☁️
+
 <div class="cloudy-card">
-  <div class="cloudy-photo-wrap">
-    <img
-      src="{{ '/assets/img/cloudy.JPEG' | relative_url }}"
-      alt="Cloudy the cat"
-      class="cloudy-photo"
-    >
 
-    <div id="heart-container" class="heart-container"></div>
-  </div>
+  <div class="cloudy-left">
+    <div class="cloudy-photo-wrap">
+      <img
+        src="{{ '/assets/img/cloudy.PNG' | relative_url }}"
+        alt="Cloudy the cat"
+        class="cloudy-photo"
+      >
 
-  <div class="cloudy-content">
-    <p>
-      Cloudy is my professional napper, research supervisor, and occasional keyboard assistant.
-    </p>
+      <div id="heart-container" class="heart-container"></div>
+    </div>
 
     <button id="pet-cloudy" class="pet-button" type="button">
       ♡ Pet me
@@ -80,7 +80,15 @@ Outside of research, I love racket sports (tennis, table tennis, and pickleball)
 
     <p id="pet-count" class="pet-count"></p>
   </div>
+
+  <div class="cloudy-content">
+    <p>
+      Cloudy is my professional napper, research supervisor, and occasional keyboard assistant.
+    </p>
+  </div>
+
 </div>
+
 <script>
   let pets = Number(localStorage.getItem("cloudyPets")) || 0;
 
