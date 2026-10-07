@@ -58,3 +58,68 @@ Outside of research, I love racket sports (tennis, table tennis, and pickleball)
     <figcaption>NCTTA</figcaption>
   </figure>
 </div>
+<div class="cloudy-card">
+  <div class="cloudy-photo-wrap">
+    <img
+      src="{{ '/assets/img/cloudy.JPEG' | relative_url }}"
+      alt="Cloudy the cat"
+      class="cloudy-photo"
+    >
+
+    <div id="heart-container" class="heart-container"></div>
+  </div>
+
+  <div class="cloudy-content">
+    <p>
+      Cloudy is my professional napper, research supervisor, and occasional keyboard assistant.
+    </p>
+
+    <button id="pet-cloudy" class="pet-button" type="button">
+      ♡ Pet me
+    </button>
+
+    <p id="pet-count" class="pet-count"></p>
+  </div>
+</div>
+<script>
+  let pets = Number(localStorage.getItem("cloudyPets")) || 0;
+
+  const petButton = document.getElementById("pet-cloudy");
+  const petCount = document.getElementById("pet-count");
+  const heartContainer = document.getElementById("heart-container");
+
+  function updatePetCount() {
+    petCount.textContent =
+      pets === 0
+        ? "Cloudy is waiting for pets."
+        : `You have given Cloudy ${pets} ${pets === 1 ? "pet" : "pets"}.`;
+  }
+
+  function makeHeart() {
+    const heart = document.createElement("span");
+    heart.className = "floating-heart";
+    heart.textContent = "♥";
+
+    const randomOffset = Math.random() * 80 - 40;
+    heart.style.marginLeft = `${randomOffset}px`;
+
+    heartContainer.appendChild(heart);
+
+    setTimeout(() => heart.remove(), 1100);
+  }
+
+  updatePetCount();
+
+  petButton.addEventListener("click", function () {
+    pets++;
+    localStorage.setItem("cloudyPets", pets);
+
+    petButton.textContent = "♥ Petted!";
+    updatePetCount();
+    makeHeart();
+
+    setTimeout(() => {
+      petButton.textContent = "♡ Pet me";
+    }, 600);
+  });
+</script>

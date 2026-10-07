@@ -5,12 +5,24 @@ title: CV
 
 # Curriculum Vitae
 
-This page provides a brief academic overview. For the full version, please download my CV here:
+<div class="cv-intro">
 
-[Download full CV (PDF)]({{ '/assets/pdf/CV_Zhou_Yinuo.pdf' | relative_url }})
+  <div class="cv-intro-text">
+    <p>
+      This page provides a brief academic overview. For the full version, please download my CV here:
+    </p>
 
-<div class="hero-photo">
+    <p>
+      <a href="{{ '/assets/pdf/CV_Zhou_Yinuo.pdf' | relative_url }}">
+        Download full CV (PDF)
+      </a>
+    </p>
+  </div>
+
+  <div class="cv-headshot">
     <img src="{{ '/assets/img/headshot.JPEG' | relative_url }}" alt="Portrait of Yinuo Zhou">
+  </div>
+
 </div>
   
 ## Current Position
